@@ -3217,8 +3217,17 @@ MonoBehaviour:
     Delay: 1
     Count: 5
   - Template: {fileID: 711984937359687179, guid: 761cb9359223ea64ab4c5c7fe8c3a285, type: 3}
+    Delay: 0.8
+    Count: 8
+  - Template: {fileID: 711984937359687179, guid: 761cb9359223ea64ab4c5c7fe8c3a285, type: 3}
     Delay: 0.5
     Count: 10
+  - Template: {fileID: 711984937359687179, guid: 761cb9359223ea64ab4c5c7fe8c3a285, type: 3}
+    Delay: 0.3
+    Count: 12
+  - Template: {fileID: 711984937359687179, guid: 761cb9359223ea64ab4c5c7fe8c3a285, type: 3}
+    Delay: 0.1
+    Count: 15
   _spawnPoint: {fileID: 953826037}
   _player: {fileID: 1759946428}
 --- !u!1 &967341371
